@@ -13,6 +13,7 @@
 [comment]: <>  (## Some Title)
 
 ### index url - 'https://codeinstitute-davidhubber.github.io/resume/'	
+### Github page - 'https://codeinstitute-davidhubber.github.io/resume/github.html'	
 
 [comment]: <>  (- [This is a link Make it Match #1][])
 [comment]: <>  (- [This is a link Make it Match #2][])
